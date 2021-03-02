@@ -1,4 +1,4 @@
-# mh-webpack-fundamentals
+# Webpack Fundamentals Mentor Hour
 
 Starting point for the "Webpack Fundamentals" Mentor Hour
 
