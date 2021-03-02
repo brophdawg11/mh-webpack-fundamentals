@@ -1,0 +1,4 @@
+final/
+node_modules/
+.DS_Store
+agenda.txt
