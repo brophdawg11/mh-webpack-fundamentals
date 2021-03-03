@@ -1,5 +1,6 @@
 dist/
 final/
 node_modules/
+vite/
 .DS_Store
 agenda.txt
